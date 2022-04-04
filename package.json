@@ -1,5 +1,5 @@
 {
-  "name": "cron-parser",
+  "name": "awesome-cron-parser",
   "version": "4.3.0",
   "description": "Node.js library for parsing crontab instructions",
   "main": "lib/parser.js",
@@ -24,36 +24,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/harrisiirak/cron-parser.git"
+    "url": "https://github.com/fazza4613/awesome-cron-parser.git"
   },
   "keywords": [
     "cron",
     "crontab",
     "parser"
   ],
-  "author": "Harri Siirak",
-  "contributors": [
-    "Nicholas Clawson",
-    "Daniel Prentis <daniel@salsitasoft.com>",
-    "Renault John Lecoultre",
-    "Richard Astbury <richard.astbury@gmail.com>",
-    "Meaglin Wasabi <Meaglin.wasabi@gmail.com>",
-    "Mike Kusold <hello@mikekusold.com>",
-    "Alex Kit <alex.kit@atmajs.com>",
-    "Santiago Gimeno <santiago.gimeno@gmail.com>",
-    "Daniel <darc.tec@gmail.com>",
-    "Christian Steininger <christian.steininger.cs@gmail.com>",
-    "Mykola Piskovyi <m.piskovyi@gmail.com>",
-    "Brian Vaughn <brian.david.vaughn@gmail.com>",
-    "Nicholas Clawson <nickclaw@gmail.com>",
-    "Yasuhiroki <yasuhiroki.duck@gmail.com>",
-    "Nicholas Clawson <nickclaw@gmail.com>",
-    "Brendan Warkentin <faazshift@gmail.com>",
-    "Charlie Fish <fishcharlie.code@gmail.com>",
-    "Ian Graves <ian+diskimage@iangrav.es>",
-    "Andy Thompson <me@andytson.com>",
-    "Regev Brody <regevbr@gmail.com>"
-  ],
+  "author": "Alessandro Fazari",
   "license": "MIT",
   "dependencies": {
     "luxon": "^1.28.0"
